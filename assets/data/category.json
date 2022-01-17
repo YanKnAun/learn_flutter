@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Text",
+    "path": "/text"
+  },
+  {
+    "name": "Button",
+    "path": "/button"
+  },
+  {
+    "name": "Image",
+    "path": "/image"
+  },
+  {
+    "name": "Form",
+    "path": "/form"
+  },
+  {
+    "name": "Box",
+    "path": "/box"
+  }
+]

@@ -17,7 +17,7 @@ class ImageDemo extends StatelessWidget {
           child: Column(
             children: [
               Image.asset(
-                "images/miku.jpg",
+                "assets/images/miku.jpg",
                 width: 200.0,
               ),
               Image.network(
